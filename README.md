@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://i.imgur.com/your-image-placeholder.png" alt="Snake Matrix AI" width="600"/>
+  <img src="https://i.imgur.com/your-ai-banner-placeholder.png" alt="AI Futuristic Art" width="600"/>
 </div>
 
-# Hi there! 👋 I'm **Wacel Ben Araar**  
-🚀 **Experienced Data Scientist & AI Consultant**  
+# Hi there! 👋 I'm **Wacel Ben Araar**
+🚀 **Experienced Data Scientist & AI Consultant**
 
-🌟 A project superhero with over **3 years** of industry experience and **4 years** of freelancing expertise in Machine Learning, AI, and Data Science. My superpower? Turning complex problems into innovative, scalable solutions.  
+🌟 A project superhero with over **3 years** of industry experience and **4 years** of freelancing expertise in Machine Learning, AI, and Data Science. My superpower? Turning complex problems into innovative, scalable solutions.
 
 ---
 
-## 🛠️ My Skillset  
+## 🛠️ My Skillset
 
 - **Languages**: Python, R, MATLAB, SQL, Java, Bash  
 - **Frameworks**: TensorFlow, PyTorch, Flask, Django, React.js  
@@ -19,21 +19,22 @@
 
 ---
 
-### 🌟 Key Achievements  
-🎯 **Cyber Threat Intelligence Chatbot**: Merged AI with cybersecurity to detect and predict cyberattacks with impressive accuracy.  
+### 🌟 Key Achievements
+
+🔬 **Cyber Threat Intelligence Chatbot**: Merged AI with cybersecurity to detect and predict cyberattacks with impressive accuracy.  
 🏡 **Real Estate Analytics**: Boosted revenue by 15% using AI-driven pricing models.  
 💼 **E-commerce Optimization**: Delivered a customer database of 11,000 users in under a year.  
 
 ---
 
-## 📬 Let's Connect  
+## 📨 Let's Connect
 <a href="https://www.linkedin.com/in/wacelbenaraar/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" /></a>  
-<a href="https://www.instagram.com/wacelbenaraar/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="30" /></a>  
+<a href="https://github.com/WacelBenAraar" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" /></a>  
 <a href="https://www.facebook.com/profile.php?id=100074156928293" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="30" /></a>  
 
 ---
 
-## 🔥 Featured Projects  
+## 🔥 Featured Projects
 
 - **[CTI Predictive Analytics Dashboard](https://github.com/your-project-link)**  
   > Predicting cyberattacks using real-time data streams and historical analysis.  
@@ -47,11 +48,11 @@
 ---
 
 <div align="center">
-  <img src="https://i.imgur.com/snake-matrix.gif" alt="Snake AI Python" width="400"/>
+  <img src="https://i.imgur.com/futuristic-python-ai.gif" alt="Python AI Animated" width="400"/>
 </div>
 
 ---
 
 **Contact me:**  
 📧 **wacel.benaraar@esprit.tn**  
-📱 **+216 50574411**
+📞 **+216 50574411**
