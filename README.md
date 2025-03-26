@@ -1,16 +1,18 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/ai_banner.png" alt="AI Futuristic Art" width="600"/>
-</p>
+# 🎮 Play Snake Game 🐍
+
+🚀 Enjoy the classic Snake game with a futuristic look!
+
+🔗 **[Play Now!](https://wacel.github.io/JavaScript-Snake/)**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/matrix_animation.gif" alt="AI Matrix Animation" width="600"/>
+  <img src="https://media1.giphy.com/media/5owNSuvkqgLg1iqNrF/giphy.gif" width="600">
 </p>
 
-<p align="center">
-  <a href="https://www.instagram.com/your_instagram_username/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-YourUsername-%23E4405F?style=for-the-badge&logo=instagram" alt="Instagram" width="150"/>
-  </a>
-</p>
+## 📲 Connect with Me
+<a href="https://www.instagram.com/your_instagram_username/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40">
+</a>
+
 
 
 # Hi there! 👋 I'm **Wacel Ben Araar**
