@@ -1,12 +1,16 @@
-<div align="center">
+<p align="center">
   <img src="https://i.imgur.com/your-ai-banner-placeholder.png" alt="AI Futuristic Art" width="600"/>
-</div>
-<div align="center">
-  <img src="GIF_URL" alt="AI Matrix Animation" width="600"/>
-</div>
-<a href="https://www.instagram.com/your_instagram_username/" target="_blank">
-  <img src="INSTAGRAM_SVG_URL" alt="Instagram" width="30" />
-</a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/YOUR_GIF_ID/giphy.gif" alt="AI Matrix Animation" width="600"/>
+</p>
+
+<p align="center">
+  <a href="https://www.instagram.com/your_instagram_username/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-YourUsername-%23E4405F?style=flat&logo=instagram" alt="Instagram" width="100"/>
+  </a>
+</p>
 
 
 # Hi there! 👋 I'm **Wacel Ben Araar**
