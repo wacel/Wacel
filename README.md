@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://i.imgur.com/your-ai-banner-placeholder.png" alt="AI Futuristic Art" width="600"/>
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/ai_banner.png" alt="AI Futuristic Art" width="600"/>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/YOUR_GIF_ID/giphy.gif" alt="AI Matrix Animation" width="600"/>
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/matrix_animation.gif" alt="AI Matrix Animation" width="600"/>
 </p>
 
 <p align="center">
   <a href="https://www.instagram.com/your_instagram_username/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-YourUsername-%23E4405F?style=flat&logo=instagram" alt="Instagram" width="100"/>
+    <img src="https://img.shields.io/badge/Instagram-YourUsername-%23E4405F?style=for-the-badge&logo=instagram" alt="Instagram" width="150"/>
   </a>
 </p>
 
